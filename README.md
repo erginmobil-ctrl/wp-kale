@@ -1,3 +1,2 @@
-# WP Kale 🏰🔒
-
-Yerel AI destekli WordPress güvenlik aracı
+# wp-kale
+Tamamen yerel AI destekli WordPress güvenlik kalkanı – offline, ücretsiz, gizlilik odaklı. No cloud, no subscription.
